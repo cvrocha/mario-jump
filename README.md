@@ -5,7 +5,7 @@
 **<h3>➡️&nbsp;https://cvrocha.github.io/mario-jump/ ⬅️&nbsp;</h3>**
 
 #
-![cvrocha github io_Survey-Form_](https://user-images.githubusercontent.com/62439381/185506043-86ba2fc4-c900-4bc5-9884-93d491cda54b.png)
+![cvrocha github io_mario-jump_](https://user-images.githubusercontent.com/62439381/185506354-c63600eb-2675-4586-ab4c-20f2954a6454.png)
 
 ## Sobre 📝
 Esta é um projeto de treinamento usando JavaScript
